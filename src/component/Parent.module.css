@@ -1,0 +1,8 @@
+.parent{
+    border: 2px solid red;
+    width: 40%;
+    margin: auto;
+    margin-top: 10vh;
+    font-size: 50px;
+    background-image: linear-gradient(rgb(220, 91, 91),rgb(198, 198, 123));
+}

@@ -1,0 +1,11 @@
+.parent input{
+    margin: 10px;
+    width: 40%;
+    height: 4vh;
+    border-radius: 10px;
+}
+.parent button{
+    height: 4vh;
+    width: 3vw;
+    border-radius: 10px;
+}
