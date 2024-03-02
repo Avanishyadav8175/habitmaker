@@ -3,6 +3,8 @@
     width: 40%;
     height: 4vh;
     border-radius: 10px;
+    background-color: aquamarine;
+
 }
 .parent button{
     height: 4vh;
